@@ -1,3 +1,4 @@
+#
 # Alist for PaaS
 
 TIPS: 可点击仓库的“Use this template”在仓库的原基础上创建私库
